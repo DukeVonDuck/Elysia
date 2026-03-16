@@ -55,4 +55,15 @@ However, to understand the history, I need to mention a few of the larger scale 
 # History
 Whatever actually happened under Elysia, it became myth and legend. The Church of Truth ousted the 12th hero as a traitor and immortalized The Nameless Daughter as their Savior, the Holy Lamb. Because of this, the Number 13 in this setting is holy, while the number 12 is seen as the number of misfortune.
 
-The world 
+The world developed mostly like the real workd, albeit a little faster. We reached the information age by the year 1350 and a transhumanist society by 1410.
+
+However, not all is well. During the 1300s, two global plagues and three world wars shook the very foundation of society. The exact details are not necessary to know but, especially the Final War followed by the Manaplague left the world in shambles.
+
+Important catastrophes that happened during the Final War:
+
+* Multiple nations used up to 50% of their reseves of nuclear and ripper weapons, poisoning both the Atmosphere and the Manasphere for decades to come.
+* During the height of the conflict a Four Headed Black Dragon was supposedly seen, laying waste to cities. Evidently, those cities are actually gone. Official explanations range from nuclear or ripper devastation. However, these explanations are not consistent with how that the cities seemingly had been turned into pure infertile sludge and ash. The Rationalist branch of the Church concluded that someone must have brought forth a megasummon to assume the appearance of the mythical dragon. But the Fundamentalist branch eventually won this debate and declared that the dragon had returned to punish humanity for their sins.
+* The disturbed manasphere caused various new strains of magical viruses to reappear, causing such beautiful conditions such as vampirism or lycanthropism and other fantasy diseases to reappear. These diseases are not unknown, but their last recorded cases date back to 673 PS.
+* One strange thing that did happen during all of this was that Elysia remained untouched of most of this. Some of which can be attributed to it being the seat of all major corporations in the world and thus also having massive defensive capabilities, both politically and militarically. But, that doesn't account for the fact that the initial surge of the Manaplague almost seemed to avoid the city entirely all the while villages right outside Elysia were heavily affected. Also, Magic never destabilized within the city. - Meta Note: This is of course the doing of the Nameless One who is real. The only cases of Manaplague in Elysia are imported inside of people. But the disease never spawned on its own within the cities perimeter.
+
+The combination of Elysia being almost untouched and thus becoming a safe haven together with the sighting of the Black Dragon gave religious fundamentalists a lot of credibility which tremendously expanded their reach. Basically, while they are not a Political Entity they have ties to all major corporations and politicians and tremendous influence. The districts that are Free of Sin are usually also those that see the heaviest presence in terms of social services, corporate services and security services, while the sinfull are left to fend for themselves in the Underground or in some of the Less Savoury Districts.
