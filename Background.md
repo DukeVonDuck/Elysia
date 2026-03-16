@@ -29,8 +29,28 @@ In more recent times it has been found that the actual channeling of Mana occurs
 
 Outside of this, Magic and Magic Spells are properly researched and many magic techniques have been discovered over the last 1400 years or so. Mana can be imbued into liquids, metals and crystals for various magical effects -> Potions/Magic Items. And industrial spell casters are utilized to mass produce cheap magical goods in sweatshop or conveyor belt style factories.
 
+It is important to note that magic and magical education is heavily regulated though. To use any kind of magic legally, the user needs proper certification which costs time and money and a clean rep.
+
 # Tech
-The main reason why this world underwent a technological/industrial revolution despite the existence of magic is the simple fact that machines are much simpler to mass produce and their production can be fully automated. 
+The main reason why this world underwent a technological/industrial revolution despite the existence of magic is the simple fact that machines are much simpler to mass produce and their production can be fully automated.
+
+This leads to this world having technology comparable to that of real world Earth, but it is further along, because this is Techno-Fantasy after all.
+
+* AI is a thing and its kinda big. Used pretty much everywhere from drones to mass surveilance.
+* Cybernetics became very popular over the last 100 years. The classic. During wartime they first became a means to restore soldiers, then to enhance them and later they went mainstream. Of course, many cybernetics, especially the cheaper ones, are tied to subscritpion services which can severely limit their function or even render them completely useless if a user fails their payment or gets on a companies bad side. The only limitation to this is that on life-supporting cybernetics such as artificial hearts the patient needs to get a one week notice before the implant ceases to function.
+* All official currency is handled through a digital currency called Mono and Mono-Derivatives. The use of Shadow Currency (any other currency, especially physical ones) is illegal. So, yes, you can be arrested for using seashells or bottlecaps as currency in your Underground Street Market.
+* Computing is everywhere. Pretty much any device is capable of projecting holograms. Mixed Reality glasses, lenses (or headset for high-end applications) are common place. Neuro-Chips and FDVR are also commonly available. However, software is also strictly regulated in this world. There is no "open-source", at least not legally. Coding tools and code are treated similarly to magic and weapons. They need proper certification. This of course gives the corporations much tighter control over the entire computing landscape, allowing them to squeeze every last Mono from their users.
+* FDVR is capable of rendering the entire computing landscape as a virtual 3D-environment called the Noosphere. (Gameplay note: Fabula Ultima doesn't have any strict hacking rules AFAIK, so we can just losely do hacking and the exploration of the Noosphere as it fits stats/narratively, unless you really want me to invent a hacking minigame).
+* Weaponry is a little further in this world. I'm not gonna describe it in detail, mostly just ask.
+Just a few examples: Super-Sharp carbon-edge blades, energy weapons, lasers, super-light armor that can shrug off bullets (and thus makes melee weapons a lot more viable again), etc.
+
+## Superweapons
+
+However, to understand the history, I need to mention a few of the larger scale weapons that exist:
+
+* Mechs, basically same explanation as in MGS, invented to operate in difficult terrain and city warfare to bridge the gap between armored combat and infantry. But think more Code Geass and less Gundam.
+* Ripper-Bombs, the only weapon that has surpassed nuclear bombs (which also exist) in destructive capability. These explode in the Astral Sphere, rather than the Physical world. And while the mechanism is poorly understood, the release of highly concentrated Poisonous Mana seems to accelerate entropy in the target area. People and even inorganic matter start simply rotting and decaying and extreme rates and magic becomes unreliable or even completely inactive in the affected area.
+* Megasummons. The summoning of mana constructs is nothing really special. However, a specific class of summons that requires at least 100 summoners working in concert (and also often many of them die in the process) is capable of bringing forth creatures that are truly apocalyptic in scale. Until now, this has only been done twice in recorded history...
 
 # History
 Whatever actually happened under Elysia, it became myth and legend. The Church of Truth ousted the 12th hero as a traitor and immortalized The Nameless Daughter as their Savior, the Holy Lamb. Because of this, the Number 13 in this setting is holy, while the number 12 is seen as the number of misfortune.
